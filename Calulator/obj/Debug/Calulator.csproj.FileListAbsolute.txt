@@ -1,0 +1,15 @@
+D:\Projects\Training-CSharp\Calulator\Calulator\bin\Debug\Calulator.exe.config
+D:\Projects\Training-CSharp\Calulator\Calulator\bin\Debug\Calulator.exe
+D:\Projects\Training-CSharp\Calulator\Calulator\bin\Debug\Calulator.pdb
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.csproj.AssemblyReference.cache
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.csproj.SuggestedBindingRedirects.cache
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.Form1.resources
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.Properties.Resources.resources
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.csproj.GenerateResource.cache
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.csproj.CoreCompileInputs.cache
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.exe
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.pdb
+D:\Projects\Training-CSharp\Calulator\Calulator\bin\Debug\Calulator.exe.manifest
+D:\Projects\Training-CSharp\Calulator\Calulator\bin\Debug\Calulator.application
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.exe.manifest
+D:\Projects\Training-CSharp\Calulator\Calulator\obj\Debug\Calulator.application
